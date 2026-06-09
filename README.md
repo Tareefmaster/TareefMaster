@@ -1,6 +1,12 @@
 <img src="hero_banner.svg" width="100%"/>
 
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Tareef+%F0%9F%91%8B;Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+MongoDB+Enthusiast;Problem+Solver+%7C+50%2B+LeetCode+Challenges)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 ## 🧑‍💻 About Me
 
