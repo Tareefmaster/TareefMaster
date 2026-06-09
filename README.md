@@ -1,4 +1,3 @@
-<img src="hero_banner.svg" width="100%"/>
 
 <div align="center">
 
